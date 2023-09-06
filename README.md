@@ -1,6 +1,9 @@
 # cpn-ocr-test
 For interview test
 
+### (เนื่องจากเวลาที่จำกัด ผู้ทำเทสจะขอทำรูปแบบการอ่าน SLIP แบบ static เนื่องจากจำนวนข้อมูลที่มี ซึ่งอาจจะรองรับการอ่านเฉพาะสำหรับ SLIP ของ 2 ร้านค้าที่ให้มา ซึ่งในส่วน Model ที่ทำจะเป็น Model เบื้องต้นในการอ่าน ที่เหมาะสมเฉพาะ 2 ตัวอย่าง SLIP นี้)
+
+
 ### สามารถ Pull code ไปรันเพื่อตรวจสอบ หรือ จาก Docker Hub 
 
 ### กรณีใช้ Docker Hub
@@ -50,3 +53,6 @@ For interview test
   3. ทำการนำ Dataloader ที่เตรียมไว้ ไปทำการ Train ด้วย CNN Model
      * รูปภาพตัวอย่าง และผลลัพธ์ในการเทรนด์
 ![image](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/8b527453-2a04-413d-be59-b82a37218c26)
+
+
+# Thank you _/\_
