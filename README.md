@@ -9,3 +9,9 @@ For interview test
 
  - ใช้ body ในการ requests ด้วย POST method ไปที่ /slip-detect
  - body จากไฟล์ api_test_en.json และ api_test_th.json
+
+### กรณีจะ Pull Code เพื่อตรวจสอบ
+ - git pull https://github.com/thanatthuch/cpn-ocr-test.git
+ - pip3 install --no-cache-dir --upgrade -r ./requirements.txt
+ - apt-get update && apt-get install -y tesseract-ocr
+ - cd app && python3 main.py
