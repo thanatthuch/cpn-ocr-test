@@ -30,6 +30,10 @@ For interview test
 
 # ตัวอย่างผลลัพธ์บางส่วน
 * ตัวอย่างการทดสอบผลลัพธ์ในการอ่านสลิปของ CASA LAPIN และบริษัทอีซีลี่จำกัด
+
+* ![en](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/683e2228-abd1-4207-9489-0695addbe566)![th](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/f77c0e4b-99cc-4e1b-9011-385f570b8d3d)
+
+
 ![image](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/590b4269-0dd2-4724-aaac-f0d93fa28d96)
 
 
