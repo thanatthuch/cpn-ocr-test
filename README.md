@@ -52,7 +52,8 @@ For interview test
 
   3. ทำการนำ Dataloader ที่เตรียมไว้ ไปทำการ Train ด้วย CNN Model
      * รูปภาพตัวอย่าง และผลลัพธ์ในการเทรนด์
-![image](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/8b527453-2a04-413d-be59-b82a37218c26)
+![image](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/dd1fb222-58d3-4a57-b895-27f78aa487ef)
+
 
 
 # Thank you _/\_
