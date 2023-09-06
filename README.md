@@ -53,7 +53,8 @@ For interview test
      ![Screenshot 2566-09-05 at 17 48 52](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/9c92a98b-378c-4012-8563-2d147953353f)
 
   2. นำภาพตัวอักษร มาจัดให้อยู่ถูกตามชื่อ Folder เพื่อเตรียมไว้สำหรับจัดทำ Dataloader 
-     ![image](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/b3828883-b097-4cd0-9b49-8de70ca50499)
+
+![image](https://github.com/thanatthuch/cpn-ocr-test/assets/52025403/b3828883-b097-4cd0-9b49-8de70ca50499)
 
   3. ทำการนำ Dataloader ที่เตรียมไว้ ไปทำการ Train ด้วย CNN Model
      * รูปภาพตัวอย่าง และผลลัพธ์ในการเทรนด์
