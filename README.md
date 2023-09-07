@@ -6,7 +6,7 @@ For interview test
 
 ### สามารถ Pull code ไปรันเพื่อตรวจสอบ หรือ จาก Docker Hub 
 
-### กรณีใช้ Docker Hub
+### กรณีจะใช้ Docker ในการเทส
  - docker pull thanatthuch/cpn-ocr:latest
  - docker run --name imagename -p 8888:8888 thanatthuch/cpn-ocr:latest
 
